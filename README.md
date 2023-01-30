@@ -1,1 +1,1 @@
-# Forest_Fire_Prediction_using_ml_and_flaks
+# Forest_Fire_Prediction-using-ML
